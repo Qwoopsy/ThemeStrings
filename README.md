@@ -1,0 +1,162 @@
+# SEMANTIC COLOURS
+
+REDESIGN_BUTTON_SECONDARY_BACKGROUND -
+Colour of "Add status" button (tabsv2)
+Colour of "Edit profile" button (tabsv2)
+
+REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND -
+Backround colours for:
+Attachment button
+Gift button
+Search button (tabsv2)
+Add friends button (tabsv2)
+Message request button (tabsv2)
+Events button (tabsv2)
+
+REDESIGN_BUTTON_SECONDARY_BORDER -
+Border for "Add status" button (tabsv2)
+Border for "Edit profile" button (tabsv2)
+
+BACKROUND_SECONDARY -
+Outer background for profiles
+Outer background for forum posts
+Background for single line code block thingys
+Outer backround for context menus (tabsv2) - can be overwritten by BG_BASE_SECONDARY
+Audit log info backround
+
+BACKGROUND_MOBILE_SECONDARY -
+Header colour
+
+BACKGROUND_MOBILE_PRIMARY -
+Audit log outer background
+CloudSync outer background (CloudSync)
+
+BG_BASE_PRIMARY -
+Outer chatbox background
+Top chat header (tabsv2)
+Channels list (tabvs2)
+Messages page (tabvs2)
+Notifications page (tabvs2)
+
+BG_BASE_SECONDARY - 
+Settings pages
+Outer background for context menus (tabvs2)
+
+CARD_PRIMARY_BG -
+Inner backround on you tab page 
+Inner backround on context menus (tabv2)
+Md3 toast and modal backrounds (nexxutils)
+
+# RAW COLOURS
+
+BRAND_260 - 
+Themes "OP" background in forum posts
+Pronoun tag background (pronounDB, Horror)
+
+BRAND_500 -
+For the switch trance
+
+BRAND_560 - 
+"OP" button text colour in forum posts
+
+PRIMARY_100 - 
+Settings > nitro gifting > nitro gift backround (light mode)
+Colour of "cancel" button in app authorise page
+
+PRIMARY_130 - 
+Themes navigation bars (light mode) (tabsv2)
+
+PRIMARY_160 - Does nothing on dark mode
+Some hover effects (tabsv2)
+Splash screen colour (light mode)
+
+PRIMARY_200 - Does nothing on dark mode
+Role chips (server settings > members) (light mode) 
+
+PRIMARY_230 - 
+Attachment icon, gift icon, voice note icon (dark mode)
+Toast popups (nexxutils)
+
+PRIMARY_300 -
+Themes gear icon in notification popups (dark mode)
+
+PRIMARY_360 -
+Read channel names (dark mode) (tabsUI)
+
+PRIMARY_400 -
+Channel icons
+Turned on switch
+
+PRIMARY_460 - 
+Colour of "Add status" button (dark mode) (tabv2)
+Colour of "Edit profile" button (dark mode) (tabv2)
+Read channel names (light mode) (tabsv2) 
+
+PRIMARY_560 - 
+Activity cards (tabsv2)
+
+PRIMARY_600 -
+Splash screen (dark mode) 
+Inner background of md3 switch toggles (nexxutils)
+
+PRIMARY_645 -
+Selected emoji/gift/sticker button (dark mode) (tabsv2)
+Some hover colours *(dark mode) (tabsv2)*
+
+PRIMARY 700 -
+Chatbox colour *(dark mode)*
+Toast popups *(dark mode)*
+Search bar *(dark mode) (tabsv2)*
+
+PRIMARY_800 -
+Audit log filter chips *(light mode)*
+Navigation bars *(dark mode) (tabsv2)*
+
+PLUM_3
+
+PLUM_4
+
+PLUM_6
+
+PLUM_9
+
+PLUM_10
+
+PLUM_11
+
+PLUM_13
+
+PLUM_1
+
+PLUM_17-
+Nav bars *(dark mode) (tabsUI)*
+
+PLUM_18
+
+PLUM_19
+
+PLUM_20
+
+PLUM_21
+
+PLUM_22
+Search bars *(dark mode) (tabsUI)*
+
+PLUM_25
+
+BLACK_500 - 
+Transparency in context menus
+Backrounds for search, attachments, gift buttons *(light mode) (tabsv2)*
+
+WHITE_500 - 
+Bot tag text
+Emoji context menu text
+Turned on inner backround for switches *(tabvs2)*
+"Enable" button in push notification disabled message
+Text in notification bubbles
+"Get nitro" text in emoji context menus & edit profile page
+"Invite" text on invite button in channels list
+Text colour for nitro gift embeds in nitro gift menu
+
+WHITE_630 -
+Md3 turned off button outline *(nexxutils)*
