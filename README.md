@@ -114,8 +114,6 @@ PRIMARY_800 -
 Audit log filter chips *(light mode)*
 Navigation bars *(dark mode) (tabsv2)*
 
-# RAW COLORS (as of v207.23)
-
 PLUM_1 - Color for unread channels
 
 PLUM_3 - attach file/nitro button, add status/text icon, edit profile/icon, and text in chat (dark mode) 
