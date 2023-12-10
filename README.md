@@ -47,6 +47,8 @@ Inner backround on you tab page
 Inner backround on context menus (tabv2)
 Md3 toast and modal backrounds (nexxutils)
 
+REDESIGN_CHANNEL_CATEGORY_NAME_TEXT - Changes Color for channel color headers
+
 # RAW COLOURS
 
 BRAND_260 - 
