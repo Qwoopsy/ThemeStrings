@@ -112,37 +112,28 @@ PRIMARY_800 -
 Audit log filter chips *(light mode)*
 Navigation bars *(dark mode) (tabsv2)*
 
-PLUM_3
+# RAW COLORS (as of v207.23)
+PLUM_3 - attach file/nitro button, add status/text icon, edit profile/icon, and text in chat (dark mode) 
 
-PLUM_4
+PLUM_6 - text preview for replied messages, react count for emotes under messages, and add reaction button under messages.
 
-PLUM_6
+PLUM_9 - channel list catagories
 
-PLUM_9
+PLUM_10 - minor text color,  read channel color and any where a channel is being referenced
 
-PLUM_10
-
-PLUM_11
+PLUM_11 - chat box bg and accent bar under browse channels 
 
 PLUM_13
 
-PLUM_1
+PLUM_16 - colors reply pipe
 
-PLUM_17-
-Nav bars *(dark mode) (tabsUI)*
+PLUM_17 - background for scroll to bottom of chat/new messages button
 
-PLUM_18
+PLUM_19 - background for activity cards
 
-PLUM_19
+PLUM_20 - background for channel list and user preview when someone is typing
 
-PLUM_20
-
-PLUM_21
-
-PLUM_22
-Search bars *(dark mode) (tabsUI)*
-
-PLUM_25
+PLUM_22 - background that pops up when you swip a comment to reply
 
 BLACK_500 - 
 Transparency in context menus
