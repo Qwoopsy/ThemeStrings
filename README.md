@@ -49,7 +49,7 @@ Md3 toast and modal backrounds (nexxutils)
 
 REDESIGN_CHANNEL_CATEGORY_NAME_TEXT - Changes Color for channel color headers
 
-# RAW COLOURS
+# RAW Colour's (As of 207.23)
 
 BRAND_260 - 
 Themes "OP" background in forum posts
