@@ -31,6 +31,9 @@ BACKGROUND_MOBILE_PRIMARY -
 Audit log outer background
 CloudSync outer background (CloudSync)
 
+BACKGROUND_MODIFIER_ACCENT -
+Deals with the background for icons in the settings menu
+
 BG_BASE_PRIMARY -
 Outer chatbox background
 Top chat header (tabsv2)
