@@ -126,8 +126,6 @@ PLUM_10 - minor text color,  read channel color and any where a channel is being
 
 PLUM_11 - chat box bg and accent bar under browse channels 
 
-PLUM_13
-
 PLUM_16 - colors reply pipe
 
 PLUM_17 - background for scroll to bottom of chat/new messages button
