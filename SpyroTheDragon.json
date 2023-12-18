@@ -134,6 +134,9 @@
       "TEXT_NORMAL": [
       "#9c35ba", "#9c35ba"
       ],
+      "TEXT_PRIMARY": [
+      "#9c35ba", "#9c35ba"
+      ],
       "TEXT_SECONDARY": [
       "#c55e97", "#c55e97"
       ],
