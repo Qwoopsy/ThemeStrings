@@ -402,8 +402,10 @@
 	},
 	"background": {
 			"blur": 1.5,
-			"url": "https://cdn.discordapp.com/attachments/1183217866993057802/1186132803755180202/spyrothedrago.png",
-			"alpha": 0	
+			"url": "https://raw.githubusercontent.com/mysticentity/CustomBetterDiscordCSS/master/spyrothedrago.png",
+			"alpha": 0.25
 		},
 		"spec": 2
 	}
+	
+	
