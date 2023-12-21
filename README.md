@@ -135,6 +135,7 @@ PLUM_16 - colors reply pipe
 
 PLUM_17 - background for scroll to bottom of chat/new messages button
 
+PLUM 18 - inner background for profiles (forced transparency)
 PLUM_19 - background for activity cards
 
 PLUM_20 - background for channel list and user preview when someone is typing
