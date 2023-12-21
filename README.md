@@ -105,7 +105,6 @@ Splash screen (dark mode)
 Inner background of md3 switch toggles (nexxutils)
 
 PRIMARY_645 -
-Selected emoji/gift/sticker button (dark mode) (tabsv2)
 Some hover colours *(dark mode) (tabsv2)*
 
 PRIMARY 700 -
@@ -131,10 +130,11 @@ PLUM_11 - chat box bg and accent bar under browse channels
 
 PLUM 13 - pressed button background
 
-PLUM_16 - colors reply pipe
+PLUM_16 - 
 
 PLUM_17 - background for scroll to bottom of chat/new messages button
 
+Selected emoji/gift/sticker button (dark mode)
 PLUM 18 - inner background for profiles (forced transparency)
 PLUM_19 - background for activity cards
 
