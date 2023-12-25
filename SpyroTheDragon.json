@@ -47,6 +47,9 @@
 			  "BACKGROUND_SECONDARY_ALT": [
 			  "#fbdf6a", "#fbdf6a"
 			  ],
+			  "MENTION_BACKGROUND": [
+			  "#fbdf6a", "#fbdf6a"
+			  ],
 			  "BACKGROUND_TERTIARY": [
 			  "#fbdf6a", "#fbdf6a"
 			  ],
@@ -84,7 +87,7 @@
 			  "#9c35ba", "#9c35ba"
 			  ],
 			  "INPUT_BACKGROUND": [
-			  "#e7a56e", "#e7a56e"
+			  "#d28077", "#d28077"
 			  ],
 			  "INPUT_PLACEHOLDER_TEXT": [
 			  "#9c35ba", "#9c35ba"
@@ -203,7 +206,7 @@
 			  "PRIMARY_460": "#9c35ba",
 			  "PRIMARY_500": "#9c35ba",
 			  "PRIMARY_600": "#9c35ba",
-			  "PRIMARY_700": "#e7a56e",
+			  "PRIMARY_700": "#d28077",
 			  "PRIMARY_800": "#d28077",
 			  "GREEN_100": "#9c35ba",
 			  "GREEN_130": "#9c35ba",
