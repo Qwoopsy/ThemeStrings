@@ -32,15 +32,7 @@
 			  "BACKGROUND_MODIFIER_ACTIVE": [
 			  "#fbdf6a", "#fbdf6a"
 			  ],
-			  "BACKGROUND_MODIFIER_HOVER": [
-			  "#e7a56e", "#e7a56e"
-			  ],
-			  "BACKGROUND_MODIFIER_SELECTED": [
-			  "#d28077", "#d28077"
-			  ],
-			  "BACKGROUND_PRIMARY": [
-			  "#e7a56e", "#e7a56e"
-			  ],
+			  
 			  "BACKGROUND_SECONDARY": [
 			  "#fbdf6a", "#fbdf6a"
 			  ],
@@ -156,7 +148,7 @@
 			  "#d28077", "#d28077"
 			  ],
 			  "BORDER_STRONG": [
-			  "#fbdf6a", "#fbdf6a"
+			  "#9c35ba", "#9c35ba"
 			  ],      
 			  "BORDER_SUBTLE": [
 			  "#e7a56e", "#e7a56e"
@@ -169,6 +161,9 @@
 			  ],
 			  "ICON_MUTED": [
 			  "#9c35ba", "#9c35ba"
+			  ],
+			  "BUTTON_OUTLINE_PRIMARY_BORDER_ACTIVE": [
+			  "9c35ba"
 			  ],
 			  "MODAL_FOOTER_BACKGROUND": [
 			  "#fbdf6a", "#fbdf6a"
@@ -198,7 +193,7 @@
 			  "PRIMARY_160": "#c55e97",
 			  "PRIMARY_200": "#fbdf6a",
 			  "PRIMARY_230": "#fbdf6a",
-			  "PRIMARY_300": "#fbdf6a",
+			  "PRIMARY_300": "#9c35ba",
 			  "PRIMARY_345": "#fbdf6a",
 			  "PRIMARY_360": "#d28077",    
 			  "PRIMARY_400": "#d28077",
