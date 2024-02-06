@@ -125,7 +125,7 @@
             "#d98958"
         ],
         "TEXT_LINK": [
-            "#c55e97"
+            "#d4e0ee"
         ],
         "TEXT_DANGER": [
             "#ec275f"
@@ -144,10 +144,10 @@
 			"#ec275f66"
 	],
 		"MENTION_BACKGROUND": [
-			"#9c35baA6"
+			"#d4e0eeA6"
 	],
 		"MENTION_FOREGROUND": [
-			"#fbdf6a"
+			"#ffdcdc"
 	]
     },
     "rawColors": {
