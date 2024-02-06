@@ -1,5 +1,5 @@
 {
-    "name": "SakuraTree",
+    "name": "Sakura Tree",
     "description": "Sakura In Autmn. (Dark Mode) (Themes+)",
     "authors": [
         {
@@ -17,10 +17,10 @@
             "#d28077"
         ],
 		"TEXT_PRIMARY": [
-            "#ffa7a6"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#ffa7a6"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
             "#ec275f"
@@ -32,7 +32,7 @@
             "#f25477"
         ],
         "INTERACTIVE_MUTED": [
-            "#d28077"
+            "#ec275f"
         ],
         "BACKGROUND_SECONDARY": [
             "#78605e"
@@ -80,10 +80,7 @@
         "BACKGROUND_MODIFIER_HOVER": [
             "#e7a56e"
         ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#9c35ba",
-			"#9c35ba"
-        ],
+        
         "BACKGROUND_MODIFIER_SELECTED": [
             "#d28077"
         ],
@@ -115,17 +112,8 @@
 	  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
 			"#d4e0ee"
       ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#13A10E"
-        ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#13A10E"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#13A10E"
         ],
 		 "BORDER_FAINT": [
             "#d98958"
@@ -136,20 +124,11 @@
         "BORDER_SUBTLE": [
             "#d98958"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#fbdf6a"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#fbdf6a"
-        ],
         "TEXT_LINK": [
             "#c55e97"
         ],
         "TEXT_DANGER": [
-            "#c55e97"
-        ],
-        "KEYBOARD": [
-            "#9c35ba"
+            "#ec275f"
         ],
         "CHANNEL_ICON": [
             "#d4e0ee"
@@ -160,12 +139,6 @@
 		"CARD_PRIMARY_BG": [
 			"#78605e"
 	],
-		"SPOILER_HIDDEN_BACKGROUND": [
-			"#9c35ba",
-			"#9c35ba",
-			"#9c35ba",
-			"#9c35ba"
-	],
 	
 		"BACKGROUND_MENTIONED": [
 			"#ec275f66"
@@ -175,80 +148,15 @@
 	],
 		"MENTION_FOREGROUND": [
 			"#fbdf6a"
-	],
-	
-		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-			"#9c35ba",
-			"#9c35ba",
-			"#9c35ba"
-	   ]
+	]
     },
     "rawColors": {
-        "BRAND_260": "#fbdf6a",
-        "BRAND_300": "#d28077",
-        "BRAND_330": "#d28077",
-        "BRAND_345": "#d28077",
-        "BRAND_360": "#d28077",
-        "BRAND_500": "#e7a56e",
-        "BRAND_530": "#d28077",
-        "BRAND_560": "#d28077",
-        "BRAND_600": "#d28077",
-        "BRAND_630": "#d28077",
-        "BRAND_660": "#d28077",
-        "BRAND_700": "#d28077",
-        "BRAND_730": "#d28077",
-        "BRAND_760": "#d28077",
-        "BRAND_800": "#d28077",
-        "BRAND_830": "#d28077",
-        "BRAND_860": "#d28077",
-        "BRAND_900": "#d28077",
-        "PRIMARY_100": "#9c35ba",
-        "PRIMARY_130": "#9c35ba",
-        "PRIMARY_160": "#c55e97",
-        "PRIMARY_200": "#9c35ba",
-        "PRIMARY_230": "#9c35ba",
-        "PRIMARY_300": "#fbdf6a",
-        "PRIMARY_345": "#9c35ba",
-        "PRIMARY_360": "#d28077",
-        "PRIMARY_400": "#d28077",
-        "PRIMARY_430": "#fbdf6a",
-        "PRIMARY_460": "#fbdf6a",
-        "PRIMARY_500": "#9c35ba",
-        "PRIMARY_600": "#d28077",
-		"PRIMARY_660": "#d28077",
-        "PRIMARY_700": "#d28077",
-        "PRIMARY_800": "#d28077",
-        "GREEN_430": "#9c35ba",
-        "GUILD_BOOSTING_PINK": "#fbdf6a",
-        "GUILD_BOOSTING_PURPLE": "#fbdf6a",
-        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#fbdf6a",
-        "RED_100": "#d28077",
-        "RED_130": "#d28077",
-        "RED_160": "#d28077",
-        "RED_200": "#d28077",
-        "RED_230": "#d28077",
-        "RED_260": "#d28077",
-        "RED_300": "#d28077",
-        "RED_330": "#d28077",
-        "RED_345": "#d28077",
-        "RED_360": "#d28077",
-        "RED_400": "#d28077",
-        "RED_430": "#d28077",
-        "RED_460": "#d28077",
-        "RED_500": "#d28077",
-        "RED_530": "#d28077",
-        "RED_560": "#d28077",
-        "RED_600": "#d28077",
-        "RED_630": "#d28077",
-        "RED_660": "#d28077",
-        "RED_700": "#d28077",
-        "RED_730": "#d28077",
-        "RED_760": "#d28077",
-        "RED_800": "#d28077",
-        "RED_830": "#d28077",
-        "RED_860": "#d28077",
-        "RED_900": "#d28077",
-		"BLUE_345": "#ec275f",
+        "BRAND_360": "#ffa7a6",
+        "BRAND_500": "#ffa7a6",
+        "PRIMARY_500": "#78605e",
+        "PRIMARY_660": "#8c7074",
+        "GREEN_430": "#78605e",
+        "BLUE_345": "#ec275f",
 		"BLUE_330": "#fbdf6a",
 		"Yellow_300": "#fbdf6a",		
         "WHITE_630": "#fbdf6a",
