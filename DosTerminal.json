@@ -193,7 +193,7 @@
 "plus": {
         "version": "0",
        "customOverlays": true,
-        "iconpack": "solar"
+        "iconpack": "materialtwotone"
 }, 
 	"fonts":{
   "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
