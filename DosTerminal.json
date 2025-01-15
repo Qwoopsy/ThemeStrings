@@ -31,10 +31,10 @@
             "#16C60C"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#16C60C"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#13A10E"
         ],
         "INTERACTIVE_MUTED": [
             "#16C60C"
@@ -64,7 +64,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#16C60C"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -102,7 +102,7 @@
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
         ],
-		"REDESIGN_INPUT_CONTROL_SELECTED": [
+	"REDESIGN_INPUT_CONTROL_SELECTED": [
             "#16C60C"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
@@ -163,6 +163,7 @@
         ]
     },
     "rawColors": {
+	"PRIMARY_100": "#16C60C",
         "PRIMARY_200": "#16C60C",
         "PRIMARY_230": "#16C60C",
         "PRIMARY_300": "#13A10E",
@@ -184,7 +185,7 @@
         "PLUM_16": "#13A10E70",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
-        "PLUM_19": "#1A1A1A",
+        "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_22": "#00000000",
         "PLUM_24": "#000000",
