@@ -31,10 +31,10 @@
             "#16C60C"
         ],
         "INTERACTIVE_HOVER": [
-            "#16C60C"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#13A10E"
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
             "#16C60C"
@@ -82,10 +82,16 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
+            "#4A4A4A35"
+        ],
+        "EMBED_BACKGROUND":  [
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#13A10E30"
+        ],
+        "BG_SURFACE_OVERLAY_TMP": [
+            "#000000"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#16C60C"
@@ -96,11 +102,17 @@
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
             "#000000"
         ],
+		"REDESIGN_INPUT_CONTROL_SELECTED": [
+            "#16C60C"
+        ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#000000"
+        ],
+        "ANDROID_RIPPLE": [
+            "16C60C"
         ],
         "BG_BASE_PRIMARY": [
             "#000000"
@@ -109,7 +121,7 @@
             "#13A10E"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#13A10E"
@@ -127,7 +139,7 @@
             "#13A10E"
         ],
         "TEXT_DANGER": [
-            "#FF5F1F"
+            "#13A10E"
         ],
         "KEYBOARD": [
             "#13A10E"
@@ -151,43 +163,32 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#16C60C",
         "PRIMARY_200": "#16C60C",
         "PRIMARY_230": "#16C60C",
         "PRIMARY_300": "#13A10E",
-        "PRIMARY_360": "#16C60C",
-        "PRIMARY_400": "#16C60C",
         "PRIMARY_500": "#16C60C",
-        "PRIMARY_560": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_645": "#000000",
         "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
         "BRAND_260": "#13A10E",
         "BRAND_360": "#13A10E",
         "BRAND_500": "#000000",
         "BRAND_560": "#13A10E",
-        "YELLOW_300": "#13A10E",
-        "GREEN_600": "#16C60C",
         "RED_400": "#16C60C",
         "WHITE_500": "#13A10E",
-        "WHITE_630": "#16C60C",
         "GREEN_360": "#16C60C",
         "PLUM_1": "#13A10E",
         "PLUM_3": "#16C60C",
         "PLUM_6": "#16C60C",
-        "PLUM_10": "#16C60C",
+        "PLUM_9": "#16C60C",
         "PLUM_11": "#000000",
-        "PLUM_15": "#16C60C",
+        "PLUM_13": "#16C60C",
+        "PLUM_16": "#13A10E70",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
-        "PLUM_19": "#000000",
+        "PLUM_19": "#1A1A1A",
         "PLUM_20": "#000000",
-        "PLUM_26": "#FF00FF",
-        "PLUM_22": "#000000",
-        "PLUM_24": "#000000"
+        "PLUM_22": "#00000000",
+        "PLUM_24": "#000000",
+        "ROLE_DEFAULT": "#16C60C70"
     },
     "plus": {
         "version": 0,
@@ -213,11 +214,6 @@
         "NotoSans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
         "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
         "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
-    },
-    "Background": {
-        "blur": 0,
-        "url": "https://mysticentity.github.io/CustomBetterDiscordCSS/BlackestOfBlack.jpg",
-        "alpha": 0.42
     },
     "spec": 2
 }
