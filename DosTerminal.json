@@ -1,6 +1,7 @@
 {
     "name": "DosTerminal",
     "description": "Original theme made by Princeblueblood",
+    "version": "1",
     "authors": [
         {
             "name": "Princeblueblood",
@@ -84,7 +85,7 @@
             "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#FFB000"
+            "#13A10E30"
         ],
         "BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#16C60C"
@@ -166,7 +167,7 @@
         "PRIMARY_800": "#000000",
         "BRAND_260": "#13A10E",
         "BRAND_360": "#13A10E",
-        "BRAND_500": "#FFB000",
+        "BRAND_500": "#000000",
         "BRAND_560": "#13A10E",
         "YELLOW_300": "#13A10E",
         "GREEN_600": "#16C60C",
@@ -180,8 +181,8 @@
         "PLUM_10": "#16C60C",
         "PLUM_11": "#000000",
         "PLUM_15": "#16C60C",
-        "PLUM_17": "#FFB000",
-        "PLUM_18": "#FFB000",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_26": "#FF00FF",
@@ -190,6 +191,7 @@
     },
     "plus": {
         "version": 0,
+        "mentionLineColor": "#000",
         "iconpack": "materialtwotone"
     },
     "fonts": {
