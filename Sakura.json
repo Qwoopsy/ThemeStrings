@@ -342,13 +342,34 @@
         }
     },
 
+	"fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-Bold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-BoldIt.ttf",
+        "ggsans-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-BoldIt.ttf",
+        "ggsans-Medium": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-MediumIt.ttf",
+        "ggsans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-It.ttf",
+        "ggsans-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-SemiboldIt.ttf",
+        "NotoSans-Bold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-It.ttf",
+        "NotoSans-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf"
+    },
+
 
           
 
 
 
         
-	"background": {
+         "background": {
 		"blur": 0.0,
 		"url": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/Sakura.png",
 		"alpha": 0.45
