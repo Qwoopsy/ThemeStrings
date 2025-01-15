@@ -1,5 +1,5 @@
 {
-    "name": "Dos Terminal",
+    "name": "Dos.Terminal",
     "description": "Original theme made by Princeblueblood",
     "version": "1",
     "authors": [
@@ -193,6 +193,7 @@
         "PLUM_10": "#16C60C",
         "PLUM_11": "#000000",
         "PLUM_15": "#16C60C",
+        "PLUM_16": "#1A1A1A",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
         "PLUM_19": "#13A10E",
