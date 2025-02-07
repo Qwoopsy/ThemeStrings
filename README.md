@@ -1,5 +1,7 @@
 All of my themes use Themes+ and Nexxutils. Themes are dark mode.
 
+Edit: This is pretty outdated and hasn't been updated in a while, so take all of this with a grain of salt.
+
 # SEMANTIC COLOURS
 
 REDESIGN_BUTTON_SECONDARY_BACKGROUND -
